@@ -21,7 +21,7 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'freecvbd.com',
+        hostname: 'mvaralsea.com',
         port: '',
         pathname: '/**',
       },
